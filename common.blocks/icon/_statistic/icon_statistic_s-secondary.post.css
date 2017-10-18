@@ -1,0 +1,7 @@
+.icon_statistic_s-secondary {
+	width: 16px;
+	height: 16px;
+	background-size: 100%;
+	opacity: 0.6;
+	background-image: url('icon_statistic_s-primary.svg');
+}

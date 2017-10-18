@@ -1,0 +1,7 @@
+.icon_check_s-disable {
+	width: 16px;
+	height: 16px;
+	background-size: 100%;
+	opacity: 0.3;
+	background-image: url('icon_check_s-primary.svg');
+}

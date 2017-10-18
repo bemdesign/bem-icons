@@ -1,0 +1,7 @@
+.icon_arrow-right_s-secondary {
+	width: 16px;
+	height: 16px;
+  	background-size: 100%;
+  	opacity: 0.6;
+	background-image: url('icon_arrow-right_s-primary.svg');
+}

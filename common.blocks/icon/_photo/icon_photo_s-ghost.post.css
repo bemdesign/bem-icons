@@ -1,0 +1,7 @@
+.icon_photo_s-ghost {
+	width: 16px;
+	height: 16px;
+	background-size: 100%;
+	opacity: 0.3;
+	background-image: url('icon_photo_s-primary.svg');
+}
