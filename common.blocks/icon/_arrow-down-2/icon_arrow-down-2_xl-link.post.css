@@ -1,6 +1,6 @@
 .icon_arrow-down-2_xl-link {
 	width: 48px;
 	height: 48px;
-	background-size: 100%;
+	background-size: auto;
 	background-image: url('icon_arrow-down-2_xl-link.svg');
 }
