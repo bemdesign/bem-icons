@@ -1,6 +1,10 @@
 {
   "name": "bem-icons",
+<<<<<<< HEAD
   "version": "1.0.2",
+=======
+  "version": "1.0.4",
+>>>>>>> origin/master
   "description": "",
   "main": "index.js",
   "scripts": {
