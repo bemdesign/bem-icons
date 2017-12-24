@@ -1,7 +1,6 @@
-.icon_comment_s-primary {
+.icon_comment_s-link {
 	width: 16px;
 	height: 16px;
 	background-size: 100%;
-	background-image: url('icon_comment_s-link.svg
-        ');
+	background-image: url('icon_comment_s-link.svg');
 }
