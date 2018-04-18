@@ -1,10 +1,15 @@
 {
   "name": "bem-icons",
+<<<<<<< HEAD
   "version": "2.0.0",
+=======
+  "version": "1.2.0",
+>>>>>>> 150197c185dbaea2d8e9ea0aacbb783ea83238ef
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"remove-bg": "gulp removeBg"
   },
   "repository": {
     "type": "git",
@@ -15,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/bemdesign/bem-icons/issues"
   },
-  "homepage": "http://bem.design"
+  "homepage": "http://bem.design",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-debug": "^3.2.0",
+    "gulp-string-replace": "^1.0.0"
+  }
 }

@@ -1,0 +1,6 @@
+.icon_statistic_s-disable {
+	width: 16px;
+	height: 16px;
+	opacity: 0.3;
+	background-image: url('icon_statistic_s-primary.svg');
+}
